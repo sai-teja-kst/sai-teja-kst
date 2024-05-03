@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @sai-teja-kst .. I'm Indian
+- 👋 Hi, I’m @sai-teja-kst .. I'm an Indian
 - 👀 I’m interested in coding and open to learn new trending technologies
 - 🌱 I’m currently learning web development
 - 📫 How to reach me karrisaiteja0234@gmail.com
 - 😄 Pronouns: KST
 - ⚡ From: Visakhapatnam, AP, India.
+- ✨ Hobbies: Watching Anime, reading mangas and manhwa
 
 <!---
 sai-teja-kst/sai-teja-kst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
