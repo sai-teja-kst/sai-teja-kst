@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sai-teja-kst .. I'm an Indian
 - 👀 I’m interested in coding and open to learn new trending technologies
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web development with REACT JS, Node JS, Express JS, Mongo DB, JAVA and SPRING...
 - 📫 How to reach me karrisaiteja0234@gmail.com
 - 😄 Pronouns: KST
 - ⚡ From: Visakhapatnam, AP, India.
