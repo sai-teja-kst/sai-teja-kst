@@ -64,42 +64,13 @@ Ask me about anything, I love to talk to people and discuss tech! You can reach 
 <p align="center">
 	<a href="#" target="_blank"><img
 			src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-teja-kst&show_icons=true"
-			alt="guptaashwanee" /></a>
-</p>
-
-<h3 align="left">Coding Stats:</h3>
-<p align="center">
-<a href="#" target="_blank"><img
-			src="https://github-readme-stats.vercel.app/api/wakatime?username=sai-teja-kst&layout=compact"
 			alt="sai-teja-kst" /></a>
-
 </p>
 
-<h3 align="left">Coding Activity:</h3>
-<p align="center">
-<a href="#" target="_blank"><img
-			src="https://wakatime.com/share/@sai-teja-kst/b8f39bd8-337c-4edb-a98d-14a554783d33.svg"
-			alt="sai-teja-kst" /></a>
-
-</p>
 
 <h3 align="left">Guthub Stats:</h3>
 <p align="center">
 <a href="#" target="_blank"><img
 			src="https://github-profile-trophy.vercel.app/?username=sai-teja-kst&theme=gruvbox"
 			alt="sai-teja-kst" /></a>
-
 </p>
-
-<h3 align="left">Contributions:</h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sai-teja-kst/sai-teja-kst/output/github-contribution-grid-snake.svg" />
-<img alt="github-snake" src="https://raw.githubusercontent.com/sai-teja-kst/sai-teja-kst/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</picture>
-
-<div align="center">
-	
-https://github.com/sai-teja-kst/sai-teja-kst/assets/52340682/bc53cff2-021d-4d8b-9cd2-6a4f5525884c
-</div>
-
