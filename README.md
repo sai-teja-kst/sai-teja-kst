@@ -1,84 +1,37 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=FFFFFF&width=435&lines=Sai+Teja+Karri" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=011F40&width=435&lines=Sai+Teja+Karri" />
-  <img alt="Sai Teja Karri" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=ffcc34&width=435&lines=Sai+Teja+Karri" />
-</picture>
+<h1 align="center">Hi 👋, I'm Sai Teja Karri (KST)</h1>
+<h3 align="center">Full Stack Developer</h3>
 
-### Full Stack UI Developer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-teja-kst&label=Profile%20views&color=0e75b6&style=flat" alt="sai-teja-kst" /> </p>
 
-Hello! I'm a software engineer with 3+ years of experience, specializing in **JavaScript/TypeScript**, **React**, and **Node.js**.  
-I enjoy building scalable, clean, maintainable systems—and exploring the ever-curious world of DevOps.  
-I’ve spent over a year working with **AWS**, **Docker**, and **Nginx**, and I’m always looking to expand my technical toolkit.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sai-teja-kst" alt="sai-teja-kst" /></a> </p>
 
-I believe in collaboration and open source. Feel free to explore my repositories or connect anytime!
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on **Fleet Management System, Robot Stack Application**
+
+- 🌱 I’m currently learning **AI Agents, LangFuse, Zenoh, ROS2**
+
+- 👯 I’m looking to collaborate on **MERN stack web applications, React native applications, NiFi Data Pipelines**
+
+- 🤝 I’m looking for help with **Zenoh ROS2**
+
+- 💬 Ask me about **web application development & deployment, performance, SEO**
+
+- 📫 How to reach me **karrisaiteja32@gmail.com**
+
+- ⚡ Fun fact **I play BGMI on weekends add me -**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-	<a href="https://github.com/sai-teja-kst" target="_blank">
-    <img src="https://img.shields.io/github/followers/sai-teja-kst?style=social" alt="GitHub Followers" />
-  </a>
+<a href="https://linkedin.com/in/saitejakarri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saitejakarri" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/xxxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="xxxx" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## 👋 Hello, fellow coders! <img src="https://raw.githubusercontent.com/sai-teja-kst/sai-teja-kst/main/Hi.gif" width="30px">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sai-teja-kst&show_icons=true&locale=en&layout=compact" alt="sai-teja-kst" /></p>
 
-- Primary coding language: **JavaScript**
-- Competitive Programmer
-- BGMI Player — Add me: **DELTA-KST🐺**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sai-teja-kst&show_icons=true&locale=en" alt="sai-teja-kst" /></p>
 
-I enjoy conversations about tech, engineering, and creative problem-solving—reach out anytime!
-
----
-
-## 🌐 Connect with me
-
-<p align="left">
-	<a href="https://www.linkedin.com/in/saitejakarri/" target="_blank">
-		<img src="https://img.shields.io/badge/LinkedIn-brightgreen?style=social&logo=linkedin" />
-	</a>
-	<a href="https://github.com/sai-teja-kst" target="_blank">
-		<img src="https://img.shields.io/badge/GitHub-brightgreen?style=social&logo=github" />
-	</a>
-</p>
-
----
-
-## 🛠️ Languages & Tools
-
-<img src="https://skillicons.dev/icons?i=nodejs,bun,mongodb,aws,git,docker,githubactions,react,express,vscode,js,ts&theme=light" />
-
----
-
-## 🔥 Contributions
-
-<p align="center">
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sai-teja-kst&currStreakNum=2FD3EB&fire=red&sideLabels=F00&theme=neon-dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sai-teja-kst&currStreakNum=2FD3EB&fire=red&sideLabels=F00" />
-  <img alt="Sai Teja Karri Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sai-teja-kst&currStreakNum=2FD3EB&fire=red&sideLabels=F00" />
- </picture>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-	<img src="https://github-readme-stats-new-umber.vercel.app/api?username=sai-teja-kst&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&locale=en&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-</p>
-
----
-
-## 🧩 Top Languages
-
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-teja-kst&show_icons=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=sai-teja-kst&theme=gruvbox" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sai-teja-kst&" alt="sai-teja-kst" /></p>
