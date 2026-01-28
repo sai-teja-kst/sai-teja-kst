@@ -1,17 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sai Teja Karri (KST)</h1>
+<h1 align="center">Hi 👋, I'm Sai Teja Karri [KST]</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-teja-kst&label=Profile%20views&color=0e75b6&style=flat" alt="sai-teja-kst" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sai-teja-kst" alt="sai-teja-kst" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Fleet Management System, Robot Stack Application**
 
 - 🌱 I’m currently learning **AI Agents, LangFuse, Zenoh, ROS2**
 
-- 👯 I’m looking to collaborate on **MERN stack web applications, React native applications, NiFi Data Pipelines**
+- 👯 I’m looking to collaborate on **Yet to Build**
 
 - 🤝 I’m looking for help with **Zenoh ROS2**
 
@@ -19,7 +15,7 @@
 
 - 📫 How to reach me **karrisaiteja32@gmail.com**
 
-- ⚡ Fun fact **I play BGMI on weekends add me -**
+- ⚡ Fun fact **I play BGMI on weekends add me - 5188469634**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
