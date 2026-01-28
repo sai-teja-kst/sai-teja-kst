@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Teja Karri [KST]</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">MERN Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-teja-kst&label=Profile%20views&color=0e75b6&style=flat" alt="sai-teja-kst" /> </p>
 
@@ -7,13 +7,9 @@
 
 - 🌱 I’m currently learning **AI Agents, LangFuse, Zenoh, ROS2**
 
-- 👯 I’m looking to collaborate on **Yet to Build**
-
 - 🤝 I’m looking for help with **Zenoh ROS2**
 
 - 💬 Ask me about **web application development & deployment, performance, SEO**
-
-- 📫 How to reach me **karrisaiteja32@gmail.com**
 
 - ⚡ Fun fact **I play BGMI on weekends add me - 5188469634**
 
@@ -29,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sai-teja-kst&show_icons=true&locale=en&layout=compact" alt="sai-teja-kst" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sai-teja-kst&show_icons=true&locale=en" alt="sai-teja-kst" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sai-teja-kst&" alt="sai-teja-kst" /></p>
