@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Fleet Management System, Robot Stack Application**
 
-- 🌱 I’m currently learning **AI Agents, LangFuse, Zenoh, ROS2**
+- 🌱 I’m currently learning **AI Agents, LangGraph, Zenoh, ROS2**
 
 - 🤝 I’m looking for help with **Zenoh ROS2**
 
